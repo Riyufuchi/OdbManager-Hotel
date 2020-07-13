@@ -1,0 +1,81 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-07-13 18:20:51 #1 store] 
+Database 'C:\Users\Crane\Desktop\GitHub\ODB-Manager-Hotel\hotelDatabase.odb' is opened by 7728@DESKTOP-V7HUA5E
+
+[2020-07-13 18:20:51 #2 store] 
+Configuration path: ?
+
+[2020-07-13 18:21:45 #3 type.registry] 
+New type JPA.Guest
+
+[2020-07-13 18:21:45 #4 type] 
+Type JPA.Guest is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-07-13 18:22:05 #1 store] 
+Database 'C:\Users\Crane\Desktop\GitHub\ODB-Manager-Hotel\hotelDatabase.odb' has been recovered (tr. 1-3)
+
+[2020-07-13 18:22:05 #2 store] 
+Database 'C:\Users\Crane\Desktop\GitHub\ODB-Manager-Hotel\hotelDatabase.odb' is opened by 1460@DESKTOP-V7HUA5E
+
+[2020-07-13 18:22:05 #3 store] 
+Configuration path: ?
+
+[2020-07-13 18:22:05 #4 type] 
+Type JPA.Guest is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-07-13 18:22:55 #1 store] 
+Database 'C:\Users\Crane\Desktop\GitHub\ODB-Manager-Hotel\hotelDatabase.odb' is opened by 564@DESKTOP-V7HUA5E
+
+[2020-07-13 18:22:55 #2 store] 
+Configuration path: ?
+
+[2020-07-13 18:23:30 #3 type.registry] 
+New type JPA.Guest
+
+[2020-07-13 18:23:30 #4 type] 
+Type JPA.Guest is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-07-13 18:23:38 #1 store] 
+Database 'C:\Users\Crane\Desktop\GitHub\ODB-Manager-Hotel\hotelDatabase.odb' has been recovered (tr. 1-3)
+
+[2020-07-13 18:23:38 #2 store] 
+Database 'C:\Users\Crane\Desktop\GitHub\ODB-Manager-Hotel\hotelDatabase.odb' is opened by 13008@DESKTOP-V7HUA5E
+
+[2020-07-13 18:23:38 #3 store] 
+Configuration path: ?
+
+[2020-07-13 18:23:38 #4 type] 
+Type JPA.Guest is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-07-13 18:24:45 #1 store] 
+Database 'C:\Users\Crane\Desktop\GitHub\ODB-Manager-Hotel\hotelDatabase.odb' has been recovered (tr. 4-4)
+
+[2020-07-13 18:24:45 #2 store] 
+Database 'C:\Users\Crane\Desktop\GitHub\ODB-Manager-Hotel\hotelDatabase.odb' is opened by 3728@DESKTOP-V7HUA5E
+
+[2020-07-13 18:24:45 #3 store] 
+Configuration path: ?
+
+[2020-07-13 18:24:46 #4 type] 
+Type JPA.Guest is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-07-13 18:25:17 #1 store] 
+Database 'C:\Users\Crane\Desktop\GitHub\ODB-Manager-Hotel\hotelDatabase.odb' is opened by 17368@DESKTOP-V7HUA5E
+
+[2020-07-13 18:25:17 #2 store] 
+Configuration path: ?
+
+[2020-07-13 18:25:17 #3 type] 
+Type JPA.Guest is not enhanced.
+
