@@ -35,12 +35,12 @@ import JPA.Guest;
 @SuppressWarnings("serial")
 public class DataTableForm extends JFrame
 {
-	private JLabel[] label;
-	private String[] labelTexts = {"ID", "Name", "Surrname", "Email", "Bed count:", "From", "To"};
-	private Font f;
-	private JPanel contentPane;
-	private JScrollPane scrollPane;
-	private JMenuBar menuBar;
+    private JLabel[] label;
+    private String[] labelTexts = {"ID", "Name", "Surrname", "Email", "Bed count:", "From", "To"};
+    private Font f;
+    private JPanel contentPane;
+    private JScrollPane scrollPane;
+    private JMenuBar menuBar;
     private JMenu file;
     private GridBagConstraints gbc;
     private JTextField[] ID;
